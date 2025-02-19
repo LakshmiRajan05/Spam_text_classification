@@ -7,4 +7,4 @@ This repo contains the data, requirements file and the notebook for creating the
 
 1. Cleaning and Preprocessing of text data (tokenization, stopword removal, padding sequences)
 
-2.Model training using LSTM model
+2. Model training using LSTM model
